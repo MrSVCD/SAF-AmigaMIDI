@@ -12,7 +12,4 @@ is targeting toner transfer, home photolithography and CNC milling. There are a
 place for a optional L7805 voltage regulator. There are only two jumper wires in
 this design that is shown as upper PCB layer.
 
-In the folder [PCB-house/](PCB-house/) is a experimental version with various
-upgrades while still using discreet components and a 6n138.
-
 Original article [Documents/SAF-AmigaMIDI.pdf](Documents/SAF-AmigaMIDI.pdf)

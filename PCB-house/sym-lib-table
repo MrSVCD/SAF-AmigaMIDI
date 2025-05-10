@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "KCDX-5S-N")(type "KiCad")(uri "${KIPRJMOD}/KCDX5SN/KCDX-5S-N.kicad_sym")(options "")(descr ""))
-)
