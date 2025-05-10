@@ -2331,6 +2331,12 @@
 		(uuid "12499bc2-9111-4bb2-adde-6da5d4ee622c")
 	)
 	(junction
+		(at 49.53 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14bbe4de-2f5d-4471-a9e8-a8ee21b60e44")
+	)
+	(junction
 		(at 120.65 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2397,6 +2403,12 @@
 		(uuid "3df570c1-d732-44b8-82fd-d09d86b1c782")
 	)
 	(junction
+		(at 69.85 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45733f31-ee8f-4da7-87ef-eb320544830e")
+	)
+	(junction
 		(at 261.62 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2433,10 +2445,10 @@
 		(uuid "6022e227-7cfe-49df-8b42-9d7c5b483810")
 	)
 	(junction
-		(at 49.53 109.22)
+		(at 46.99 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "60a54088-2b61-4ae3-8f92-537c1b6edb87")
+		(uuid "68ab91be-23ed-4caf-8025-f7855125d2d8")
 	)
 	(junction
 		(at 200.66 147.32)
@@ -2461,12 +2473,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "730bf3e8-2b3e-4d46-893c-00ac9d88479c")
-	)
-	(junction
-		(at 69.85 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82ced8ca-4bc5-442c-8e67-825e5778e29c")
 	)
 	(junction
 		(at 53.34 50.8)
@@ -2511,6 +2517,12 @@
 		(uuid "9bbe0738-e622-4e5a-a5c2-021fe7a4432a")
 	)
 	(junction
+		(at 59.69 166.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c213074-433a-4093-b7f1-734a5f931481")
+	)
+	(junction
 		(at 151.13 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2547,6 +2559,12 @@
 		(uuid "be7930e8-68be-460e-8482-97994fdfcf3b")
 	)
 	(junction
+		(at 59.69 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8d98389-1a66-4ff9-88ff-a721566a1175")
+	)
+	(junction
 		(at 76.2 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2569,12 +2587,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e58e163b-1cc9-4c90-bc69-3cdc56b22d91")
-	)
-	(junction
-		(at 59.69 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e590510e-4d5d-450e-9cfe-4d9654fac541")
 	)
 	(junction
 		(at 102.87 114.3)
@@ -2603,6 +2615,16 @@
 			(type default)
 		)
 		(uuid "01ea643d-077c-412d-9749-7e9f06b172cd")
+	)
+	(wire
+		(pts
+			(xy 59.69 166.37) (xy 69.85 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04fb32d0-43fb-4c53-9486-c63d302c1446")
 	)
 	(wire
 		(pts
@@ -2663,6 +2685,16 @@
 			(type default)
 		)
 		(uuid "116b3c1c-74e9-4a10-9811-883681214c02")
+	)
+	(wire
+		(pts
+			(xy 46.99 170.18) (xy 49.53 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12736aac-43d7-4afa-a7cd-2f29bf70bd46")
 	)
 	(wire
 		(pts
@@ -2906,6 +2938,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 139.7) (xy 59.69 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fed8241-6ec8-41fa-9897-f5627388c537")
+	)
+	(wire
+		(pts
 			(xy 128.27 132.08) (xy 130.81 132.08)
 		)
 		(stroke
@@ -2953,16 +2995,6 @@
 			(type default)
 		)
 		(uuid "33576b46-d117-441a-b943-bae6d5e60bb9")
-	)
-	(wire
-		(pts
-			(xy 46.99 139.7) (xy 59.69 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35dfc0fa-e30d-4e80-84d0-675ac244da5d")
 	)
 	(wire
 		(pts
@@ -3076,6 +3108,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 166.37) (xy 59.69 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cc6e96d-195f-4ba5-86b1-a243da1f9081")
+	)
+	(wire
+		(pts
 			(xy 153.67 50.8) (xy 184.15 50.8)
 		)
 		(stroke
@@ -3156,6 +3198,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 170.18) (xy 59.69 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d35e871-80ab-4cb1-9f54-51e53a3d35cc")
+	)
+	(wire
+		(pts
 			(xy 59.69 139.7) (xy 69.85 139.7)
 		)
 		(stroke
@@ -3216,13 +3268,13 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 109.22) (xy 49.53 109.22)
+			(xy 46.99 93.98) (xy 68.58 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "632e49f7-1fbf-4bd9-becc-058df2aa3ef7")
+		(uuid "6286ed19-c9ce-44bb-946f-f8e9af84a332")
 	)
 	(wire
 		(pts
@@ -3366,16 +3418,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 93.98) (xy 68.58 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7aec1f90-39b0-4c40-a469-1a83c9d0db18")
-	)
-	(wire
-		(pts
 			(xy 69.85 157.48) (xy 69.85 160.02)
 		)
 		(stroke
@@ -3443,6 +3485,16 @@
 			(type default)
 		)
 		(uuid "82e72d81-1fe0-4f0e-8776-cedfe6ad6054")
+	)
+	(wire
+		(pts
+			(xy 46.99 93.98) (xy 46.99 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "851abcb5-3948-41fb-b75c-109bd7351af2")
 	)
 	(wire
 		(pts
@@ -3523,6 +3575,16 @@
 			(type default)
 		)
 		(uuid "8f200b91-5d2c-433b-ab4b-0cd05a6bb12e")
+	)
+	(wire
+		(pts
+			(xy 44.45 93.98) (xy 46.99 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f4f7bfc-b52d-4d34-9343-e300dfa6695d")
 	)
 	(wire
 		(pts
@@ -3676,13 +3738,13 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 160.02) (xy 69.85 160.02)
+			(xy 44.45 109.22) (xy 49.53 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b09cc2c7-4d86-438d-9df6-25139a0905c4")
+		(uuid "b05ef6d4-529e-4de3-b3a3-4fd521a9e709")
 	)
 	(wire
 		(pts
@@ -3866,6 +3928,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 166.37) (xy 69.85 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c51c21ee-b479-44b7-89fb-e39448e11b18")
+	)
+	(wire
+		(pts
 			(xy 151.13 62.23) (xy 181.61 62.23)
 		)
 		(stroke
@@ -3906,6 +3978,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 166.37) (xy 59.69 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb3f1018-3f1b-4789-9cd4-4f123a261a8b")
+	)
+	(wire
+		(pts
 			(xy 92.71 114.3) (xy 102.87 114.3)
 		)
 		(stroke
@@ -3923,6 +4005,16 @@
 			(type default)
 		)
 		(uuid "cc71482a-5321-451a-a360-bc500abf0146")
+	)
+	(wire
+		(pts
+			(xy 49.53 166.37) (xy 46.99 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceff7d93-26d6-4000-af71-bbd6589de168")
 	)
 	(wire
 		(pts
@@ -5163,7 +5255,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 41.91 109.22 0)
+		(at 39.37 109.22 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5172,7 +5264,7 @@
 		(dnp no)
 		(uuid "3bcd4506-0c10-4776-ae59-d6916643709e")
 		(property "Reference" "GND1"
-			(at 38.1 109.22 0)
+			(at 35.56 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5180,7 +5272,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 41.91 105.41 0)
+			(at 39.37 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5189,7 +5281,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm"
-			(at 41.91 109.22 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5198,7 +5290,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 109.22 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5207,7 +5299,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 41.91 109.22 0)
+			(at 39.37 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,6 +5596,75 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_Diode_AKL:1N4148")
+		(at 53.34 170.18 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ef37356-5613-4d58-bd69-506318bcdc7b")
+		(property "Reference" "D4"
+			(at 52.0699 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 54.6099 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+			(at 53.34 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf"
+			(at 53.34 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"
+			(at 53.34 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e4ed93a5-c3a2-4086-9f29-bf00fffa3dff")
+		)
+		(pin "1"
+			(uuid "f9eb94b9-fae9-4dd1-88d5-d76e3fd9ca76")
+		)
+		(instances
+			(project "CNC-RS232"
+				(path "/f9f873ab-a457-4e4f-9e91-26e1fcb78862"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 72.39 93.98 270)
 		(unit 1)
@@ -5643,7 +5804,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 41.91 160.02 0)
+		(at 41.91 170.18 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5652,7 +5813,7 @@
 		(dnp no)
 		(uuid "66b31f64-d6a3-4487-82ad-0bbdedfb2ca4")
 		(property "Reference" "-12v1"
-			(at 38.1 160.02 0)
+			(at 38.1 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5660,7 +5821,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 41.91 156.21 0)
+			(at 41.91 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5669,7 +5830,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm"
-			(at 41.91 160.02 0)
+			(at 41.91 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5678,7 +5839,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 160.02 0)
+			(at 41.91 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5687,7 +5848,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 41.91 160.02 0)
+			(at 41.91 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5709,7 +5870,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 45.72 93.98 0)
+		(at 39.37 93.98 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5718,7 +5879,7 @@
 		(dnp no)
 		(uuid "6904b430-f79f-4f29-ac02-a7707cf69151")
 		(property "Reference" "TXD1"
-			(at 41.91 93.98 0)
+			(at 35.56 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5726,7 +5887,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 45.72 90.17 0)
+			(at 39.37 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5735,7 +5896,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm"
-			(at 45.72 93.98 0)
+			(at 39.37 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5744,7 +5905,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 93.98 0)
+			(at 39.37 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5753,7 +5914,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 45.72 93.98 0)
+			(at 39.37 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5910,6 +6071,76 @@
 			(project "PCB-House"
 				(path "/f9f873ab-a457-4e4f-9e91-26e1fcb78862"
 					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Diode_AKL:1N4148")
+		(at 53.34 166.37 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74a4db68-c1e8-4724-bdce-755adbe66ea4")
+		(property "Reference" "D5"
+			(at 52.0699 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 54.6099 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
+			(at 53.34 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf"
+			(at 53.34 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library"
+			(at 53.34 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8eba124d-91f9-40a5-9538-fb6fe7e9c7ec")
+		)
+		(pin "1"
+			(uuid "67941467-f298-43c0-9bd7-95fe69e465a0")
+		)
+		(instances
+			(project "CNC-RS232"
+				(path "/f9f873ab-a457-4e4f-9e91-26e1fcb78862"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -7418,7 +7649,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 41.91 139.7 0)
+		(at 39.37 139.7 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7427,7 +7658,7 @@
 		(dnp no)
 		(uuid "c3ab622f-0720-4a35-b732-d3330e24da59")
 		(property "Reference" "RXD1"
-			(at 38.1 139.7 0)
+			(at 35.56 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7435,7 +7666,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 41.91 135.89 0)
+			(at 39.37 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7444,7 +7675,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-1.5sqmm_1x01_D1.7mm_OD3.9mm"
-			(at 41.91 139.7 0)
+			(at 39.37 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7453,7 +7684,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 139.7 0)
+			(at 39.37 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7462,7 +7693,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 41.91 139.7 0)
+			(at 39.37 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
