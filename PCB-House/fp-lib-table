@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KCDX-5S-N")(type "KiCad")(uri "${KIPRJMOD}/KCDX5SN")(options "")(descr ""))
+)
